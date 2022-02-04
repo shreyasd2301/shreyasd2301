@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm shreyas dhaware</h1>
 <h3 align="center">Machine Learning Engineer</h3>
 
@@ -23,7 +22,7 @@
 
 ### About Me
 
-<--**shreyasd2301/shreyasd2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**shreyasd2301/shreyasd2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
