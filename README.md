@@ -37,3 +37,15 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: ...
 
 https://travis-ci.org/{{username}}/{{project_name}}.png?branch={{branch}}
+
+### Github Stats
+
+<p>
+   <a href="https://img.shields.io/github/followers/shreyasd2301?label=Follow&style=social">
+      <img alt="Coverage" src="https://img.shields.io/github/followers/shreyasd2301?label=Follow&style=social" height="25">
+   </a>
+   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=shreyasd2301&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12">
+   <img alt="Last Update" src="https://img.shields.io/github/last-commit/shreyasd2301/shreyasd2301?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+</p>
+
+![](https://github-readme-stats.vercel.app/api?username=soumik12345&count_private=true&show_icons=true&count_private=true)
