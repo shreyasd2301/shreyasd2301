@@ -48,4 +48,4 @@ https://travis-ci.org/{{username}}/{{project_name}}.png?branch={{branch}}
    <img alt="Last Update" src="https://img.shields.io/github/last-commit/shreyasd2301/shreyasd2301?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=soumik12345&count_private=true&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=shreyasd2301&count_private=true&show_icons=true&count_private=true)
