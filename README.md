@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shreyas dhaware</h1>
+<h1 align="center">Hi 👋, I'm Shreyas Dhaware</h1>
 <h3 align="center">NLP Intern</h3>
 
 <br>
@@ -26,7 +26,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Antern as ML Intern
+- 🔭 I’m have worked in Antern as ML Intern
 - 🌱 I’m currently learning Deep Learning
 - 🔭 I’m currently working on a mission to do Kaggle everyday..
 <!-- - 👯 I’m looking to collaborate on ...
