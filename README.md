@@ -23,9 +23,9 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m have worked in Antern as ML Intern
-- 🌱 I’m currently doing my NLP Internship at FutureSmartAI
-- 🔭 I’m currently working on a mission to do Kaggle everyday..
+- 🔭 I have worked at Antern as ML Intern
+- 🌱 I was doing my Data Science NLP Internship at FutureSmartAI
+<!--- 🔭 I’m currently working on a mission to do Kaggle everyday..-->
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
